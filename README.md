@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 🏮 Hello there （Ni Hao 你好）🏮
 
-My name is Jiada Ye. I am a frontend developer with 4 years of working experience living in NYC. 
+My name is Jiada Ye. I am an experienced frontend developer living in NYC. 
 
 ## 🛠  Technologies and tools
 
